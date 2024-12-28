@@ -28,9 +28,9 @@ The objective of this Project to deploy an Angular application on Docker contain
 **Type it on terminal!**
 
 1. Pull the App from docker
-   \*\* `   docker pull mriduluppal/dockerizing-angular-ec2:latest`
+   \*\* `   docker pull kastackered/dockerizing-angular-ec2:latest`
 2. Run the docker image
-   \*\* `   docker run –d –p 80:80 mriduluppal/dockerizing-angular-ec2:latest`
+   \*\* `   docker run –d –p 80:80 kastackered/dockerizing-angular-ec2:latest`
 3. Paste this link on your browser the app will run
    http://localhost
 
